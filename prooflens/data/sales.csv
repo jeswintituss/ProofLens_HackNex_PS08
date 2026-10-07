@@ -1,0 +1,11 @@
+transaction_id,customer,region,product,quantity,unit_price,revenue
+1001,Alice,South,Laptop,2,50000,100000
+1002,Bob,North,Phone,5,20000,100000
+1003,Charlie,South,Tablet,3,15000,45000
+1004,David,East,Laptop,1,50000,50000
+1005,Eva,South,Phone,4,20000,80000
+1006,Frank,North,Tablet,2,15000,30000
+1007,Grace,East,Phone,3,20000,60000
+1008,Hari,South,Laptop,1,50000,50000
+1009,Isha,North,Phone,2,20000,40000
+1010,John,East,Tablet,4,15000,60000

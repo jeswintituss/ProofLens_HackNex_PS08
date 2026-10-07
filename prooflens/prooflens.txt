@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+ <head>
+     <meta charset="utf-8" initial-scale=1.0>
+    <meta name="viewport" content="width=device-width;">
+
+<style>
+    #s1{
+        position:absolute;
+        left: 200px;
+        font-size: 40px;
+        background-color:blueviolet;
+        z-index: 2;
+    }
+    #s2{
+        position: static;
+        left: 300x;
+        font-size: 40px;
+        background-color: red;
+    }
+    #s3{
+        position: static;
+        left: 400px;
+        font-size: 40px;
+        background-color: blue;
+    }
+    #s4{
+        position: fixed;
+        left: 500px;
+        font-size: 40px;
+        background-color: green;
+    }
+    
+   
+   </style>
+  </head>
+  <body>
+     <div id="div1"> </div>
+     <div id="div2"> </div>
+     <div id="div3"></div>
+     <div id="div4"></div>
+     <div id="div5"></div>
+
+     <span id="s1">Span1</span>
+     <span id="s2">Span2</span>
+     <span id="s3">Span3</span>
+     <span id="s4">Span4</span>
+ </body>
+</html>
+
